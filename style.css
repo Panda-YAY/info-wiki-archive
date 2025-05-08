@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fdfdfd;
+  color: #111;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+a {
+  color: #0055cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
